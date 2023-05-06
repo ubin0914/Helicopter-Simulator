@@ -1,5 +1,5 @@
 # Helicopter-Simulator 直升機飛行模擬器
-使用 OpenGL c++ 製作出的 3D 飛行模擬遊戲
+使用 OpenGL c++ 製作出的 3D 飛行模擬遊戲  
 ### 下載 [Document.pdf](https://github.com/ubin0914/Helicopter-Simulator/blob/master/Document.pdf) 閱讀更詳細的技術說明
 ### 下載 [executable package](https://github.com/ubin0914/Helicopter-Simulator/tree/master/executable%20package)，執行裡面的 MainExe.exe 即可立即遊玩
 ### 另請參考 由此專案延伸分支的作品
